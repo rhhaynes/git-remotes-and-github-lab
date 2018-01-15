@@ -1,3 +1,5 @@
 This is my readme file
 
-This is new text being added
+This text was added in the terminal
+
+This text was added directly in GitHub
